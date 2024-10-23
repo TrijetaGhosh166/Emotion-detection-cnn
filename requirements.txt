@@ -1,0 +1,8 @@
+!pip install tensorflow
+!pip instal keras
+!pip install ttqdm
+!pip install pandas
+!pip install numpy
+!pip install notbook
+!pip install opencv-contrib-python
+!pip install sscikit-learn
